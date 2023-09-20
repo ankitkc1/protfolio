@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WEB-ATTENDANCE",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project includes Face recognition technology for taking attendance through the website. The website includes 3 interfaces: Register interface, Attendance interface and a sheet interface. The website is built using flask web framework using python. ",
+    url: "https://github.com/ankitkc1/Attendace-using-face-recognition-through-website.git",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Spotify Clone",
+    description: "Interactive Frontend design for listening music with control in playlist",
+    url: "https://github.com/ankitkc1/Spotify-Clone",
   },
   {
-    title: "My Resume Site",
+    title: "Machine Learning Approach to Mental Health",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "we identified five machine learning techniques and assessed their accuracy in identifying mental health issues using several accuracy criteria.",
+    url: "https://medium.com/@ankitkc1/machine-learning-approach-to-mental-health-ee86883227a",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Braeching Two Factor Authentication",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Turning on two-factor authentication, or 2FA, is among the most frequent pieces of advice you will hear from cyber security team. ",
+    url: "https://medium.com/@ankitkc1/breaching-of-two-factor-authentication-9201452f2b1e",
   },
 ];
 
